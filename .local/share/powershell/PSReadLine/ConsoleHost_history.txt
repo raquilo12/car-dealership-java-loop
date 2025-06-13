@@ -73,3 +73,10 @@ fatal: Authentication failed for 'https://github.com/raquilo12/RestaurantInfoApp
 git push -u origin main
 git pull origin main --allow-unrelated-histories
 git add .
+git commit -m "Resolved merge conflict and combined histories"
+git push origin main
+git pull origin main --allow-unrelated-histories
+git pull origin main --allow-unrelated-histories --no-rebase
+RestaurantInfo.java
+nano RestaurantInfo.Java 
+git add .
