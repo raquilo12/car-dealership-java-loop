@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/raquilo/Pictures/Screenshot_2025-06-12_19_11_54.png" added="2025-06-13T00:11:58.996546Z" modified="2025-06-13T00:11:58.996552Z" visited="2025-06-13T00:11:58.996548Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="ristretto" exec="&apos;ristretto %u&apos;" modified="2025-06-13T00:11:58.996551Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/raquilo/Documents/C:%5CUsers%5Craquilo2%5COneDrive%5CPictures%5C" added="2025-06-13T00:13:53.468664Z" modified="2025-06-13T00:14:02.038477Z" visited="2025-06-13T00:13:53.468665Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="ristretto" exec="&apos;ristretto %u&apos;" modified="2025-06-13T00:14:02.038474Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/raquilo/Pictures/Screenshot_2025-06-12_18_56_28.png" added="2025-06-13T00:37:24.595261Z" modified="2025-06-13T00:37:24.595265Z" visited="2025-06-13T00:37:24.595262Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNU Image Manipulation Program" exec="&apos;gimp-3.0 %u&apos;" modified="2025-06-13T00:37:24.595264Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/raquilo/Pictures/Screenshot_2025-06-13_16_00_42.png" added="2025-06-13T21:00:51.426977Z" modified="2025-06-13T21:00:51.426981Z" visited="2025-06-13T21:00:51.426977Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="ristretto" exec="&apos;ristretto %u&apos;" modified="2025-06-13T21:00:51.426979Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

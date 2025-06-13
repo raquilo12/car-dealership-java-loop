@@ -1,0 +1,63 @@
+lscpu
+xfce4-screenshooter -f -s ~/desktop/screen.png
+lscpu
+/media/sf_C:\raquilo2\OneDrive\Pictures\Screenshots
+/media/sf_C:\Users\raquilo2\OneDrive\Pictures\Screenshots
+lscpu
+free -h
+df -h
+sudo apt install gimp
+gimp
+lscpu
+sudo apt update
+sudo apt install -y virtualbox-guest-x11
+sudo reboot
+lscpu
+free -h
+df -h
+lsblk
+fdisk
+sudo fdisk -1
+sudo fdisk 1
+sudo fdisk -1
+fdisk --help
+fdisk -l 
+sudo fdisk -l
+┌──(raquilo㉿vbox)-[/home/raquilo]
+└─PS> lsblk                                                                                                                                                                                                                                
+NAME   MAJ:MIN RM  SIZE RO TYPE MOUNTPOINTS
+sda      8:0    0   20G  0 disk 
+├─sda1   8:1    0 18.9G  0 part /
+├─sda2   8:2    0    1K  0 part 
+└─sda5   8:5    0  1.1G  0 part [SWAP]
+sr0     11:0    1 1024M  0 rom  
+lsblk
+sudo fdisk -l
+fddisk
+fdisk
+sudo fdisk
+lsblk
+sudo fdisk -l
+lscpu
+free -h
+cat /proc/meminfo
+cat /proc/cpuinfo
+top
+cat /proc/cpuinfo
+java -version
+   javac -version
+nano RestaurantInfo.java
+java RestaurantInfo.java
+git remote add origin https://github.com/raquilo12/RestaurantInfoApp.git
+git push -u origin main
+git pull origin main --allow-unrelated-histories
+git push -u origin main
+rm -rf .git
+git init
+git add RestaurantInfo.java
+git commit -m "Initial commit: Add RestaurantInfo.java"
+git remote add origin https://github.com/raquilo12/RestaurantInfoApp.git
+git push -u origin main --force
+git branch -M main
+git pull origin main --allow-unrelated-histories
+git add .

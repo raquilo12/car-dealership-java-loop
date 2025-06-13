@@ -1,0 +1,18 @@
+[Print Settings]
+page-set=all
+number-up=1
+output-file-format=pdf
+output-uri=file:///home/raquilo/Documents/C:%5CUsers%5Craquilo2%5COneDrive%5CPictures%5C
+bottom-margin=14.224
+print-pages=all
+orientation=portrait
+n-copies=1
+collate=false
+paper-format=na_letter
+reverse=false
+left-margin=6.3499999999999996
+right-margin=6.3499999999999996
+top-margin=6.3499999999999996
+scale=100
+printer=Print to File
+
