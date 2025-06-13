@@ -61,3 +61,15 @@ git push -u origin main --force
 git branch -M main
 git pull origin main --allow-unrelated-histories
 git add .
+git commit -m "Merge GitHub and local changes"
+git push -u origin main
+git push -u origin main  
+Username for 'https://github.com': raquilo
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/raquilo12/RestaurantInfoApp.git/'
+Username for 'https://github.com': raquilo
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/raquilo12/RestaurantInfoApp.git/'
+git push -u origin main
+git pull origin main --allow-unrelated-histories
+git add .
